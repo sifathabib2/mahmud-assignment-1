@@ -195,3 +195,14 @@ body{
     border: none;
 }
 /* main end  */
+/* footer start  */
+.footer{
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    background-color: rgba(10, 34, 83, 0.041);
+    border-radius: 15px;
+    font-size: 30px;
+}
+/* end  */
