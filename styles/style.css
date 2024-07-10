@@ -197,7 +197,7 @@ body{
 /* main end  */
 /* footer start  */
 .footer{
-    margin: 100px auto;
+    margin: 90px auto 0px auto;
     display: flex;
     justify-content: space-between;
     width: 1500px;
