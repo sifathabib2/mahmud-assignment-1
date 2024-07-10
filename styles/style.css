@@ -31,3 +31,49 @@ body{
     padding: 0 200px;
 }
 /* header end  */
+/* main start  */
+.section-1{
+    /* border: 2px solid red; */
+    border-radius: 14px;
+    height: 1300px;
+    width: 1100px;
+    margin: auto;
+    margin-top: 50px;  
+    background-color: rgba(13, 19, 33, 0.041);  
+}
+.first-content{
+    text-align: center;
+    padding-top: 20px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.second-content{
+    background-color: white;
+    display: flex;
+    border-radius: 20px;
+    width: 900px;
+    margin: 0 auto;
+    /* padding: 50px 200px 100px 50px; */
+
+}
+.second-description{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    padding: 50px 200px 100px 50px;
+}
+.btn{
+    width: 120px;
+    font-size: 20px;
+    padding: 10px 5px;
+}
+.third-content{
+    margin-top: 40px;
+}
+.fourth-content{
+    margin-top: 40px;
+}
